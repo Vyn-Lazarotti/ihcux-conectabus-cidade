@@ -13,5 +13,3 @@ Aluno: Vinicius Amaral Lazaroti
 ---
 
 # Acessibilidade
-
----
