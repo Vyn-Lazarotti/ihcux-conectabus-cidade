@@ -20,6 +20,10 @@ O aplicativo permitirá que usuários:
 
 # Decisões de UX
 
+Como se trata de um protótipo de baixa fidelidade, foquei em fazer algo simples e de fácil reconhecimento.
+
 ---
 
 # Acessibilidade
+
+Símbolos simples e de fácil reconhecimento.
