@@ -1,13 +1,6 @@
 # ihcux-conectabus-cidade
 
-## Integrantes
-
-- Bernardo Rocha
-- Gabrielly Cunha
-- Guilherme Honorato
-- Mariana de Paula
-- Thaís Miranda
-- Vinicius Lazaroti
+Aluno: Vinicius Lazaroti
 
 ---
 
